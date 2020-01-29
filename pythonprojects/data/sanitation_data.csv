@@ -1,0 +1,647 @@
+,Type,Region,Residence Type,Service Type,Year,Coverage,Population,Service level
+0,sdg,Australia and New Zealand,total,Sanitation,2000,39.38183,9028221.19053,Basic service
+1,sdg,Australia and New Zealand,total,Sanitation,2000,0.0,0.0,Limited service
+2,sdg,Australia and New Zealand,total,Sanitation,2000,0.0,0.0,Open defecation
+3,sdg,Australia and New Zealand,total,Sanitation,2000,60.61081,13894928.814960001,Safely managed service
+4,sdg,Australia and New Zealand,total,Sanitation,2000,0.007359999999999999,1686.9945100000002,Unimproved
+18,sdg,Australia and New Zealand,total,Sanitation,2001,39.25925,9098906.70218,Basic service
+19,sdg,Australia and New Zealand,total,Sanitation,2001,0.0,0.0,Limited service
+20,sdg,Australia and New Zealand,total,Sanitation,2001,0.0,0.0,Open defecation
+21,sdg,Australia and New Zealand,total,Sanitation,2001,60.73339,14075855.12542,Safely managed service
+22,sdg,Australia and New Zealand,total,Sanitation,2001,0.007359999999999999,1705.1724,Unimproved
+36,sdg,Australia and New Zealand,total,Sanitation,2002,39.13418,9172425.34939,Basic service
+37,sdg,Australia and New Zealand,total,Sanitation,2002,0.0,0.0,Limited service
+38,sdg,Australia and New Zealand,total,Sanitation,2002,0.0,0.0,Open defecation
+39,sdg,Australia and New Zealand,total,Sanitation,2002,60.85847,14264250.23139,Safely managed service
+40,sdg,Australia and New Zealand,total,Sanitation,2002,0.00735,1722.41922,Unimproved
+54,sdg,Australia and New Zealand,total,Sanitation,2003,39.007909999999995,9252302.45919,Basic service
+55,sdg,Australia and New Zealand,total,Sanitation,2003,0.0,0.0,Limited service
+56,sdg,Australia and New Zealand,total,Sanitation,2003,0.0,0.0,Open defecation
+57,sdg,Australia and New Zealand,total,Sanitation,2003,60.98474,14464995.27872,Safely managed service
+58,sdg,Australia and New Zealand,total,Sanitation,2003,0.00735,1743.2620600000002,Unimproved
+72,sdg,Australia and New Zealand,total,Sanitation,2004,38.882870000000004,9343114.55082,Basic service
+73,sdg,Australia and New Zealand,total,Sanitation,2004,0.0,0.0,Limited service
+74,sdg,Australia and New Zealand,total,Sanitation,2004,0.0,0.0,Open defecation
+75,sdg,Australia and New Zealand,total,Sanitation,2004,61.10978000000001,14683987.69497,Safely managed service
+76,sdg,Australia and New Zealand,total,Sanitation,2004,0.00735,1765.75423,Unimproved
+90,sdg,Australia and New Zealand,total,Sanitation,2005,38.054359999999996,9275468.14854,Basic service
+91,sdg,Australia and New Zealand,total,Sanitation,2005,0.0,0.0,Limited service
+92,sdg,Australia and New Zealand,total,Sanitation,2005,0.0,0.0,Open defecation
+93,sdg,Australia and New Zealand,total,Sanitation,2005,61.93829,15096998.55695,Safely managed service
+94,sdg,Australia and New Zealand,total,Sanitation,2005,0.00735,1790.2945100000002,Unimproved
+108,sdg,Australia and New Zealand,total,Sanitation,2006,37.229690000000005,9217892.96818,Basic service
+109,sdg,Australia and New Zealand,total,Sanitation,2006,0.0,0.0,Limited service
+110,sdg,Australia and New Zealand,total,Sanitation,2006,0.0,0.0,Open defecation
+111,sdg,Australia and New Zealand,total,Sanitation,2006,62.76296,15539810.246070001,Safely managed service
+112,sdg,Australia and New Zealand,total,Sanitation,2006,0.00735,1819.78577,Unimproved
+126,sdg,Australia and New Zealand,total,Sanitation,2007,36.407759999999996,9167407.37757,Basic service
+127,sdg,Australia and New Zealand,total,Sanitation,2007,0.0,0.0,Limited service
+128,sdg,Australia and New Zealand,total,Sanitation,2007,0.0,0.0,Open defecation
+129,sdg,Australia and New Zealand,total,Sanitation,2007,63.584880000000005,16010554.097520001,Safely managed service
+130,sdg,Australia and New Zealand,total,Sanitation,2007,0.007359999999999999,1853.5248800000002,Unimproved
+144,sdg,Australia and New Zealand,total,Sanitation,2008,35.58692,9117659.024039999,Basic service
+145,sdg,Australia and New Zealand,total,Sanitation,2008,0.0,0.0,Limited service
+146,sdg,Australia and New Zealand,total,Sanitation,2008,0.0,0.0,Open defecation
+147,sdg,Australia and New Zealand,total,Sanitation,2008,64.40571,16501269.368689999,Safely managed service
+148,sdg,Australia and New Zealand,total,Sanitation,2008,0.007370000000000001,1888.6072399999998,Unimproved
+162,sdg,Australia and New Zealand,total,Sanitation,2009,34.76505,9060648.805189999,Basic service
+163,sdg,Australia and New Zealand,total,Sanitation,2009,0.0,0.0,Limited service
+164,sdg,Australia and New Zealand,total,Sanitation,2009,0.0,0.0,Open defecation
+165,sdg,Australia and New Zealand,total,Sanitation,2009,65.22757,16999948.95326,Safely managed service
+166,sdg,Australia and New Zealand,total,Sanitation,2009,0.007379999999999999,1924.24158,Unimproved
+180,sdg,Australia and New Zealand,total,Sanitation,2010,33.94084,8990970.82283,Basic service
+181,sdg,Australia and New Zealand,total,Sanitation,2010,0.0,0.0,Limited service
+182,sdg,Australia and New Zealand,total,Sanitation,2010,0.0,0.0,Open defecation
+183,sdg,Australia and New Zealand,total,Sanitation,2010,66.05176999999999,17497197.3461,Safely managed service
+184,sdg,Australia and New Zealand,total,Sanitation,2010,0.007390000000000001,1957.83107,Unimproved
+198,sdg,Australia and New Zealand,total,Sanitation,2011,33.11403,8907066.332039999,Basic service
+199,sdg,Australia and New Zealand,total,Sanitation,2011,0.0,0.0,Limited service
+200,sdg,Australia and New Zealand,total,Sanitation,2011,0.0,0.0,Open defecation
+201,sdg,Australia and New Zealand,total,Sanitation,2011,66.87858,17989108.2296,Safely managed service
+202,sdg,Australia and New Zealand,total,Sanitation,2011,0.007390000000000001,1988.43836,Unimproved
+216,sdg,Australia and New Zealand,total,Sanitation,2012,32.28518,8810494.4047,Basic service
+217,sdg,Australia and New Zealand,total,Sanitation,2012,0.0,0.0,Limited service
+218,sdg,Australia and New Zealand,total,Sanitation,2012,0.0,0.0,Open defecation
+219,sdg,Australia and New Zealand,total,Sanitation,2012,67.70742,18477079.71041,Safely managed service
+220,sdg,Australia and New Zealand,total,Sanitation,2012,0.0074,2018.88488,Unimproved
+234,sdg,Australia and New Zealand,total,Sanitation,2013,31.454829999999998,8703002.75608,Basic service
+235,sdg,Australia and New Zealand,total,Sanitation,2013,0.0,0.0,Limited service
+236,sdg,Australia and New Zealand,total,Sanitation,2013,0.0,0.0,Open defecation
+237,sdg,Australia and New Zealand,total,Sanitation,2013,68.53777,18963204.20009,Safely managed service
+238,sdg,Australia and New Zealand,total,Sanitation,2013,0.0074,2048.04383,Unimproved
+252,sdg,Australia and New Zealand,total,Sanitation,2014,30.62375,8587319.77706,Basic service
+253,sdg,Australia and New Zealand,total,Sanitation,2014,0.0,0.0,Limited service
+254,sdg,Australia and New Zealand,total,Sanitation,2014,0.0,0.0,Open defecation
+255,sdg,Australia and New Zealand,total,Sanitation,2014,69.36884,19451971.82335,Safely managed service
+256,sdg,Australia and New Zealand,total,Sanitation,2014,0.0074,2076.39959,Unimproved
+270,sdg,Australia and New Zealand,total,Sanitation,2015,29.79245,8465254.20765,Basic service
+271,sdg,Australia and New Zealand,total,Sanitation,2015,0.0,0.0,Limited service
+272,sdg,Australia and New Zealand,total,Sanitation,2015,0.0,0.0,Open defecation
+273,sdg,Australia and New Zealand,total,Sanitation,2015,70.20013,19946727.85449,Safely managed service
+274,sdg,Australia and New Zealand,total,Sanitation,2015,0.007409999999999999,2105.93786,Unimproved
+288,sdg,Australia and New Zealand,total,Sanitation,2017,28.12913,8201435.1022,Basic service
+289,sdg,Australia and New Zealand,total,Sanitation,2017,0.0,0.0,Limited service
+290,sdg,Australia and New Zealand,total,Sanitation,2017,0.0,0.0,Open defecation
+291,sdg,Australia and New Zealand,total,Sanitation,2017,71.86345,20952780.09392,Safely managed service
+292,sdg,Australia and New Zealand,total,Sanitation,2017,0.00742,2162.80388,Unimproved
+306,sdg,Central and Southern Asia,total,Sanitation,2000,25.451829999999998,383894240.09232,At least basic
+309,sdg,Central and Southern Asia,total,Sanitation,2000,5.86227,88421663.05369,Limited service
+312,sdg,Central and Southern Asia,total,Sanitation,2000,58.21325,878040393.03627,Open defecation
+316,sdg,Central and Southern Asia,total,Sanitation,2000,10.47265,157960704.81922,Unimproved
+334,sdg,Central and Southern Asia,total,Sanitation,2001,27.4513,421455185.831,At least basic
+337,sdg,Central and Southern Asia,total,Sanitation,2001,6.36669,97746765.04611999,Limited service
+340,sdg,Central and Southern Asia,total,Sanitation,2001,55.15849,846839001.7013401,Open defecation
+344,sdg,Central and Southern Asia,total,Sanitation,2001,11.02352,169242166.42308,Unimproved
+362,sdg,Central and Southern Asia,total,Sanitation,2002,29.524490000000004,461236733.47402996,At least basic
+365,sdg,Central and Southern Asia,total,Sanitation,2002,6.845039999999999,106934449.07859,Limited service
+368,sdg,Central and Southern Asia,total,Sanitation,2002,52.85544,825716900.9782901,Open defecation
+372,sdg,Central and Southern Asia,total,Sanitation,2002,10.775030000000001,168329368.46908998,Unimproved
+390,sdg,Central and Southern Asia,total,Sanitation,2003,31.606540000000003,502236555.77897996,At least basic
+393,sdg,Central and Southern Asia,total,Sanitation,2003,7.308339999999999,116131504.33333,Limited service
+396,sdg,Central and Southern Asia,total,Sanitation,2003,50.56037,803418053.29871,Open defecation
+400,sdg,Central and Southern Asia,total,Sanitation,2003,10.52475,167241213.58898002,Unimproved
+418,sdg,Central and Southern Asia,total,Sanitation,2004,33.69872,544434058.01875,At least basic
+421,sdg,Central and Southern Asia,total,Sanitation,2004,7.756410000000001,125311990.25049,Limited service
+424,sdg,Central and Southern Asia,total,Sanitation,2004,48.2756,779937040.96258,Open defecation
+428,sdg,Central and Southern Asia,total,Sanitation,2004,10.26928,165909695.76657,Unimproved
+446,sdg,Central and Southern Asia,total,Sanitation,2005,35.80346,587831995.31649,At least basic
+449,sdg,Central and Southern Asia,total,Sanitation,2005,8.18561,134393869.03545,Limited service
+452,sdg,Central and Southern Asia,total,Sanitation,2005,46.00268,755285830.70145,Open defecation
+456,sdg,Central and Southern Asia,total,Sanitation,2005,10.00825,164318485.9466,Unimproved
+474,sdg,Central and Southern Asia,total,Sanitation,2006,37.911359999999995,632243927.9144701,At least basic
+477,sdg,Central and Southern Asia,total,Sanitation,2006,8.60635,143527299.36717,Limited service
+480,sdg,Central and Southern Asia,total,Sanitation,2006,43.73935,729436774.57199,Open defecation
+484,sdg,Central and Southern Asia,total,Sanitation,2006,9.74293,162481940.14468998,Unimproved
+502,sdg,Central and Southern Asia,total,Sanitation,2007,40.027390000000004,677742200.80871,At least basic
+505,sdg,Central and Southern Asia,total,Sanitation,2007,9.0138,152621220.30306,Limited service
+508,sdg,Central and Southern Asia,total,Sanitation,2007,41.48664,702450140.57471,Open defecation
+512,sdg,Central and Southern Asia,total,Sanitation,2007,9.47217,160382413.31183,Unimproved
+530,sdg,Central and Southern Asia,total,Sanitation,2008,42.1503,724323038.83348,At least basic
+533,sdg,Central and Southern Asia,total,Sanitation,2008,9.40939,161693707.83283,Limited service
+536,sdg,Central and Southern Asia,total,Sanitation,2008,39.24176,674341880.86338,Open defecation
+540,sdg,Central and Southern Asia,total,Sanitation,2008,9.19856,158070716.47031,Unimproved
+558,sdg,Central and Southern Asia,total,Sanitation,2009,44.2797,772022059.18408,At least basic
+561,sdg,Central and Southern Asia,total,Sanitation,2009,9.79266,170736187.31188,Limited service
+564,sdg,Central and Southern Asia,total,Sanitation,2009,37.00229,645139513.37729,Open defecation
+568,sdg,Central and Southern Asia,total,Sanitation,2009,8.92535,155614666.12676,Unimproved
+586,sdg,Central and Southern Asia,total,Sanitation,2010,46.41389,820843957.21627,At least basic
+589,sdg,Central and Southern Asia,total,Sanitation,2010,10.164860000000001,179768698.9525,Limited service
+592,sdg,Central and Southern Asia,total,Sanitation,2010,34.76668,614859482.9909999,Open defecation
+596,sdg,Central and Southern Asia,total,Sanitation,2010,8.65457,153058654.84023002,Unimproved
+614,sdg,Central and Southern Asia,total,Sanitation,2011,48.55168,870775544.08813,At least basic
+617,sdg,Central and Southern Asia,total,Sanitation,2011,10.52634,188790229.89096,Limited service
+620,sdg,Central and Southern Asia,total,Sanitation,2011,32.53521,583519828.76487,Open defecation
+624,sdg,Central and Southern Asia,total,Sanitation,2011,8.38676,150416754.25603998,Unimproved
+651,sdg,Central and Southern Asia,total,Sanitation,2012,50.69313,921797583.99249,At least basic
+654,sdg,Central and Southern Asia,total,Sanitation,2012,10.878160000000001,197807203.48999,Limited service
+657,sdg,Central and Southern Asia,total,Sanitation,2012,30.307809999999996,551113475.48273,Open defecation
+661,sdg,Central and Southern Asia,total,Sanitation,2012,8.1209,147669352.03478,Unimproved
+688,sdg,Central and Southern Asia,total,Sanitation,2013,52.83321,973791725.4668301,At least basic
+691,sdg,Central and Southern Asia,total,Sanitation,2013,11.220460000000001,206809152.97724,Limited service
+694,sdg,Central and Southern Asia,total,Sanitation,2013,28.08742,517691398.83668,Open defecation
+698,sdg,Central and Southern Asia,total,Sanitation,2013,7.8589,144850772.71925,Unimproved
+725,sdg,Central and Southern Asia,total,Sanitation,2014,54.96775,1026633936.5988599,At least basic
+728,sdg,Central and Southern Asia,total,Sanitation,2014,11.55374,215789539.3907,Limited service
+731,sdg,Central and Southern Asia,total,Sanitation,2014,25.87855,483334250.73437,Open defecation
+735,sdg,Central and Southern Asia,total,Sanitation,2014,7.59996,141944574.27607,Unimproved
+762,sdg,Central and Southern Asia,total,Sanitation,2015,57.09958,1080331798.13897,At least basic
+765,sdg,Central and Southern Asia,total,Sanitation,2015,11.87823,224737678.87681,Limited service
+768,sdg,Central and Southern Asia,total,Sanitation,2015,23.683329999999998,448091853.42759,Open defecation
+772,sdg,Central and Southern Asia,total,Sanitation,2015,7.33886,138852126.55663002,Unimproved
+799,sdg,Central and Southern Asia,total,Sanitation,2017,61.399319999999996,1191038956.27436,At least basic
+802,sdg,Central and Southern Asia,total,Sanitation,2017,12.45909,241684429.4223,Limited service
+805,sdg,Central and Southern Asia,total,Sanitation,2017,19.710829999999998,382355449.90752,Open defecation
+809,sdg,Central and Southern Asia,total,Sanitation,2017,6.43076,124745425.39583,Unimproved
+827,sdg,Eastern and South-Eastern Asia,total,Sanitation,2000,28.9217,589145130.2757901,Basic service
+830,sdg,Eastern and South-Eastern Asia,total,Sanitation,2000,4.63168,94349024.0982,Limited service
+833,sdg,Eastern and South-Eastern Asia,total,Sanitation,2000,7.23603,147400515.00663,Open defecation
+836,sdg,Eastern and South-Eastern Asia,total,Sanitation,2000,31.6236,644183749.10347,Safely managed service
+839,sdg,Eastern and South-Eastern Asia,total,Sanitation,2000,27.58698,561956280.51387,Unimproved
+855,sdg,Eastern and South-Eastern Asia,total,Sanitation,2001,29.197490000000002,599518347.3992,Basic service
+858,sdg,Eastern and South-Eastern Asia,total,Sanitation,2001,4.76759,97893874.84333001,Limited service
+861,sdg,Eastern and South-Eastern Asia,total,Sanitation,2001,7.013669999999999,144013131.20279,Open defecation
+864,sdg,Eastern and South-Eastern Asia,total,Sanitation,2001,32.03996,657883369.83611,Safely managed service
+867,sdg,Eastern and South-Eastern Asia,total,Sanitation,2001,26.9813,554012845.7206401,Unimproved
+883,sdg,Eastern and South-Eastern Asia,total,Sanitation,2002,30.38942,628893459.79175,Basic service
+886,sdg,Eastern and South-Eastern Asia,total,Sanitation,2002,4.95753,102593588.40021999,Limited service
+889,sdg,Eastern and South-Eastern Asia,total,Sanitation,2002,6.67161,138065472.16199,Open defecation
+892,sdg,Eastern and South-Eastern Asia,total,Sanitation,2002,32.48645,672290527.3648,Safely managed service
+895,sdg,Eastern and South-Eastern Asia,total,Sanitation,2002,25.494989999999998,527605794.28124005,Unimproved
+911,sdg,Eastern and South-Eastern Asia,total,Sanitation,2003,30.44705,634949844.03795,Basic service
+914,sdg,Eastern and South-Eastern Asia,total,Sanitation,2003,5.1243099999999995,106863572.47686,Limited service
+917,sdg,Eastern and South-Eastern Asia,total,Sanitation,2003,6.3430599999999995,132279654.2034,Open defecation
+920,sdg,Eastern and South-Eastern Asia,total,Sanitation,2003,33.97424,708506806.46219,Safely managed service
+923,sdg,Eastern and South-Eastern Asia,total,Sanitation,2003,24.11134,502823468.81750995,Unimproved
+939,sdg,Eastern and South-Eastern Asia,total,Sanitation,2004,30.34873,637689730.93482,Basic service
+942,sdg,Eastern and South-Eastern Asia,total,Sanitation,2004,5.28862,111124926.64755,Limited service
+945,sdg,Eastern and South-Eastern Asia,total,Sanitation,2004,6.01764,126443029.94706,Open defecation
+948,sdg,Eastern and South-Eastern Asia,total,Sanitation,2004,35.594120000000004,747906236.7711,Safely managed service
+951,sdg,Eastern and South-Eastern Asia,total,Sanitation,2004,22.75089,478043222.69737,Unimproved
+967,sdg,Eastern and South-Eastern Asia,total,Sanitation,2005,30.11451,637458452.329,Basic service
+970,sdg,Eastern and South-Eastern Asia,total,Sanitation,2005,5.447080000000001,115302796.48128998,Limited service
+973,sdg,Eastern and South-Eastern Asia,total,Sanitation,2005,5.69608,120573485.2595,Open defecation
+976,sdg,Eastern and South-Eastern Asia,total,Sanitation,2005,37.327740000000006,790146795.70265,Safely managed service
+979,sdg,Eastern and South-Eastern Asia,total,Sanitation,2005,21.4146,453300297.22757,Unimproved
+995,sdg,Eastern and South-Eastern Asia,total,Sanitation,2006,29.92912,638132816.66089,Basic service
+998,sdg,Eastern and South-Eastern Asia,total,Sanitation,2006,5.60128,119427543.92978,Limited service
+1001,sdg,Eastern and South-Eastern Asia,total,Sanitation,2006,5.37716,114649042.88621001,Open defecation
+1004,sdg,Eastern and South-Eastern Asia,total,Sanitation,2006,38.98084,831128868.56458,Safely managed service
+1007,sdg,Eastern and South-Eastern Asia,total,Sanitation,2006,20.1116,428809002.95853996,Unimproved
+1023,sdg,Eastern and South-Eastern Asia,total,Sanitation,2007,29.462979999999998,632677031.20543,Basic service
+1026,sdg,Eastern and South-Eastern Asia,total,Sanitation,2007,5.72199,122871760.24883,Limited service
+1029,sdg,Eastern and South-Eastern Asia,total,Sanitation,2007,5.06029,108662788.38364,Open defecation
+1032,sdg,Eastern and South-Eastern Asia,total,Sanitation,2007,40.92075,878716792.51791,Safely managed service
+1035,sdg,Eastern and South-Eastern Asia,total,Sanitation,2007,18.83399,404434124.6442,Unimproved
+1051,sdg,Eastern and South-Eastern Asia,total,Sanitation,2008,28.91153,625219996.65946,Basic service
+1054,sdg,Eastern and South-Eastern Asia,total,Sanitation,2008,5.837940000000001,126247042.66001001,Limited service
+1057,sdg,Eastern and South-Eastern Asia,total,Sanitation,2008,4.74659,102646251.12354,Open defecation
+1060,sdg,Eastern and South-Eastern Asia,total,Sanitation,2008,42.92491,928263218.8756,Safely managed service
+1063,sdg,Eastern and South-Eastern Asia,total,Sanitation,2008,17.57903,380151382.70923,Unimproved
+1079,sdg,Eastern and South-Eastern Asia,total,Sanitation,2009,28.27188,615696271.32332,Basic service
+1082,sdg,Eastern and South-Eastern Asia,total,Sanitation,2009,5.94895,129554326.22845,Limited service
+1085,sdg,Eastern and South-Eastern Asia,total,Sanitation,2009,4.43591,96603926.24372,Open defecation
+1088,sdg,Eastern and South-Eastern Asia,total,Sanitation,2009,44.995870000000004,979906187.1923199,Safely managed service
+1091,sdg,Eastern and South-Eastern Asia,total,Sanitation,2009,16.34739,356008464.01437,Unimproved
+1107,sdg,Eastern and South-Eastern Asia,total,Sanitation,2010,27.550490000000003,604225440.73171,Basic service
+1110,sdg,Eastern and South-Eastern Asia,total,Sanitation,2010,6.0547699999999995,132790477.09205,Limited service
+1113,sdg,Eastern and South-Eastern Asia,total,Sanitation,2010,4.12915,90558800.26688,Open defecation
+1116,sdg,Eastern and South-Eastern Asia,total,Sanitation,2010,47.12727,1033574787.79204,Safely managed service
+1119,sdg,Eastern and South-Eastern Asia,total,Sanitation,2010,15.138320000000002,332006981.11732,Unimproved
+1135,sdg,Eastern and South-Eastern Asia,total,Sanitation,2011,26.74705,590769546.9653,Basic service
+1138,sdg,Eastern and South-Eastern Asia,total,Sanitation,2011,6.15404,135925919.99141002,Limited service
+1141,sdg,Eastern and South-Eastern Asia,total,Sanitation,2011,3.8275099999999997,84539249.49723001,Open defecation
+1144,sdg,Eastern and South-Eastern Asia,total,Sanitation,2011,49.309059999999995,1089102782.35724,Safely managed service
+1147,sdg,Eastern and South-Eastern Asia,total,Sanitation,2011,13.96234,308390149.18882996,Unimproved
+1163,sdg,Eastern and South-Eastern Asia,total,Sanitation,2012,25.87591,575583819.25134,Basic service
+1166,sdg,Eastern and South-Eastern Asia,total,Sanitation,2012,6.2476,138971737.07111,Limited service
+1169,sdg,Eastern and South-Eastern Asia,total,Sanitation,2012,3.5311,78545798.19474,Open defecation
+1172,sdg,Eastern and South-Eastern Asia,total,Sanitation,2012,51.534040000000005,1146323444.96889,Safely managed service
+1175,sdg,Eastern and South-Eastern Asia,total,Sanitation,2012,12.81135,284975707.5117,Unimproved
+1191,sdg,Eastern and South-Eastern Asia,total,Sanitation,2013,24.96411,559189108.03582,Basic service
+1194,sdg,Eastern and South-Eastern Asia,total,Sanitation,2013,6.27787,140622588.34337,Limited service
+1197,sdg,Eastern and South-Eastern Asia,total,Sanitation,2013,3.2322900000000003,72402330.95512,Open defecation
+1200,sdg,Eastern and South-Eastern Asia,total,Sanitation,2013,53.836859999999994,1205930558.2149198,Safely managed service
+1203,sdg,Eastern and South-Eastern Asia,total,Sanitation,2013,11.68887,261827331.44853,Unimproved
+1219,sdg,Eastern and South-Eastern Asia,total,Sanitation,2014,23.99742,541181057.41121,Basic service
+1222,sdg,Eastern and South-Eastern Asia,total,Sanitation,2014,6.30196,142119434.13396,Limited service
+1225,sdg,Eastern and South-Eastern Asia,total,Sanitation,2014,2.94523,66419742.943459995,Open defecation
+1228,sdg,Eastern and South-Eastern Asia,total,Sanitation,2014,56.17451,1266827048.09623,Safely managed service
+1231,sdg,Eastern and South-Eastern Asia,total,Sanitation,2014,10.58088,238616030.41515,Unimproved
+1247,sdg,Eastern and South-Eastern Asia,total,Sanitation,2015,22.97704,521523600.47707003,Basic service
+1250,sdg,Eastern and South-Eastern Asia,total,Sanitation,2015,6.31985,143445408.74632,Limited service
+1253,sdg,Eastern and South-Eastern Asia,total,Sanitation,2015,2.6614400000000002,60408387.4006,Open defecation
+1256,sdg,Eastern and South-Eastern Asia,total,Sanitation,2015,58.544259999999994,1328814311.45768,Safely managed service
+1259,sdg,Eastern and South-Eastern Asia,total,Sanitation,2015,9.49741,215568430.91833,Unimproved
+1275,sdg,Eastern and South-Eastern Asia,total,Sanitation,2017,20.53332,471639012.96245,Basic service
+1278,sdg,Eastern and South-Eastern Asia,total,Sanitation,2017,6.3438,145713509.20413,Limited service
+1281,sdg,Eastern and South-Eastern Asia,total,Sanitation,2017,2.1758599999999997,49978255.925629996,Open defecation
+1284,sdg,Eastern and South-Eastern Asia,total,Sanitation,2017,63.61769,1461263083.34414,Safely managed service
+1287,sdg,Eastern and South-Eastern Asia,total,Sanitation,2017,7.329330000000001,168350676.56365,Unimproved
+1304,sdg,Europe and Northern America,total,Sanitation,2000,26.1515,271987616.98547,Basic service
+1306,sdg,Europe and Northern America,total,Sanitation,2000,0.82981,8630404.00635,Limited service
+1309,sdg,Europe and Northern America,total,Sanitation,2000,0.03549,369156.72167,Open defecation
+1312,sdg,Europe and Northern America,total,Sanitation,2000,69.40073000000001,721799514.46893,Safely managed service
+1314,sdg,Europe and Northern America,total,Sanitation,2000,3.58247,37259286.81654,Unimproved
+1332,sdg,Europe and Northern America,total,Sanitation,2001,26.15479,272888306.91516,Basic service
+1334,sdg,Europe and Northern America,total,Sanitation,2001,0.7983100000000001,8329223.496510001,Limited service
+1337,sdg,Europe and Northern America,total,Sanitation,2001,0.03413,356131.58671,Open defecation
+1340,sdg,Europe and Northern America,total,Sanitation,2001,69.3378,723442024.0410099,Safely managed service
+1342,sdg,Europe and Northern America,total,Sanitation,2001,3.6749699999999996,38343102.960609995,Unimproved
+1359,sdg,Europe and Northern America,total,Sanitation,2002,26.646209999999996,278908416.12817,Basic service
+1362,sdg,Europe and Northern America,total,Sanitation,2002,0.79556,8327236.79979,Limited service
+1365,sdg,Europe and Northern America,total,Sanitation,2002,0.033,345464.70549,Open defecation
+1368,sdg,Europe and Northern America,total,Sanitation,2002,68.9737,721954195.4034799,Safely managed service
+1371,sdg,Europe and Northern America,total,Sanitation,2002,3.5515199999999996,37174075.26507,Unimproved
+1388,sdg,Europe and Northern America,total,Sanitation,2003,26.405690000000003,277307267.59879,Basic service
+1391,sdg,Europe and Northern America,total,Sanitation,2003,0.79313,8329324.6802,Limited service
+1394,sdg,Europe and Northern America,total,Sanitation,2003,0.031869999999999996,334666.30662,Open defecation
+1397,sdg,Europe and Northern America,total,Sanitation,2003,69.34218,728217576.93058,Safely managed service
+1400,sdg,Europe and Northern America,total,Sanitation,2003,3.4271300000000005,35991048.48781,Unimproved
+1417,sdg,Europe and Northern America,total,Sanitation,2004,26.11351,275202293.03949,Basic service
+1420,sdg,Europe and Northern America,total,Sanitation,2004,0.7854899999999999,8278004.751289999,Limited service
+1423,sdg,Europe and Northern America,total,Sanitation,2004,0.03071,323632.72972,Open defecation
+1426,sdg,Europe and Northern America,total,Sanitation,2004,69.7657,735239360.89712,Safely managed service
+1429,sdg,Europe and Northern America,total,Sanitation,2004,3.3046,34826139.18638,Unimproved
+1446,sdg,Europe and Northern America,total,Sanitation,2005,25.82658,273202709.40099,Basic service
+1449,sdg,Europe and Northern America,total,Sanitation,2005,0.7716,8162249.73173,Limited service
+1452,sdg,Europe and Northern America,total,Sanitation,2005,0.02482,262606.69365,Open defecation
+1455,sdg,Europe and Northern America,total,Sanitation,2005,70.18835,742477304.24665,Safely managed service
+1458,sdg,Europe and Northern America,total,Sanitation,2005,3.18865,33730641.724029996,Unimproved
+1475,sdg,Europe and Northern America,total,Sanitation,2006,24.3032,258132035.76327997,Basic service
+1478,sdg,Europe and Northern America,total,Sanitation,2006,0.72023,7649792.64397,Limited service
+1481,sdg,Europe and Northern America,total,Sanitation,2006,0.00688,73033.74879,Open defecation
+1484,sdg,Europe and Northern America,total,Sanitation,2006,71.89458,763615389.04636,Safely managed service
+1487,sdg,Europe and Northern America,total,Sanitation,2006,3.07511,32661774.3036,Unimproved
+1504,sdg,Europe and Northern America,total,Sanitation,2007,24.06829,256738181.22661,Basic service
+1507,sdg,Europe and Northern America,total,Sanitation,2007,0.70924,7565459.216639999,Limited service
+1510,sdg,Europe and Northern America,total,Sanitation,2007,0.00634,67612.00123,Open defecation
+1513,sdg,Europe and Northern America,total,Sanitation,2007,72.27045,770913896.54873,Safely managed service
+1516,sdg,Europe and Northern America,total,Sanitation,2007,2.94568,31421825.00373,Unimproved
+1533,sdg,Europe and Northern America,total,Sanitation,2008,23.83599,255374208.19932002,Basic service
+1536,sdg,Europe and Northern America,total,Sanitation,2008,0.69844,7482919.987389999,Limited service
+1539,sdg,Europe and Northern America,total,Sanitation,2008,0.0047799999999999995,51223.31473,Open defecation
+1542,sdg,Europe and Northern America,total,Sanitation,2008,72.64067,778258208.7631099,Safely managed service
+1545,sdg,Europe and Northern America,total,Sanitation,2008,2.82012,30214257.63452,Unimproved
+1562,sdg,Europe and Northern America,total,Sanitation,2009,23.50575,252899465.90884,Basic service
+1565,sdg,Europe and Northern America,total,Sanitation,2009,0.68771,7399060.6785,Limited service
+1568,sdg,Europe and Northern America,total,Sanitation,2009,0.004,43052.123060000005,Open defecation
+1571,sdg,Europe and Northern America,total,Sanitation,2009,73.10536,786544051.60498,Safely managed service
+1574,sdg,Europe and Northern America,total,Sanitation,2009,2.69718,29019065.684609998,Unimproved
+1591,sdg,Europe and Northern America,total,Sanitation,2010,23.184639999999998,250417393.4313,Basic service
+1594,sdg,Europe and Northern America,total,Sanitation,2010,0.67738,7316395.73518,Limited service
+1597,sdg,Europe and Northern America,total,Sanitation,2010,0.0038200000000000005,41217.63852,Open defecation
+1600,sdg,Europe and Northern America,total,Sanitation,2010,73.55688,794488275.97231,Safely managed service
+1603,sdg,Europe and Northern America,total,Sanitation,2010,2.57728,27837246.22269,Unimproved
+1620,sdg,Europe and Northern America,total,Sanitation,2011,22.869670000000003,247883018.15201002,Basic service
+1623,sdg,Europe and Northern America,total,Sanitation,2011,0.6672100000000001,7231855.11614,Limited service
+1626,sdg,Europe and Northern America,total,Sanitation,2011,0.0037799999999999995,40971.48839,Open defecation
+1629,sdg,Europe and Northern America,total,Sanitation,2011,73.99873000000001,802067934.9709599,Safely managed service
+1632,sdg,Europe and Northern America,total,Sanitation,2011,2.46061,26670402.14249,Unimproved
+1649,sdg,Europe and Northern America,total,Sanitation,2012,22.58614,245587793.44427,Basic service
+1652,sdg,Europe and Northern America,total,Sanitation,2012,0.6572,7145982.07686,Limited service
+1655,sdg,Europe and Northern America,total,Sanitation,2012,0.0038399999999999997,41785.26384,Open defecation
+1658,sdg,Europe and Northern America,total,Sanitation,2012,74.40585,809043545.53723,Safely managed service
+1661,sdg,Europe and Northern America,total,Sanitation,2012,2.3469700000000002,25519479.4778,Unimproved
+1678,sdg,Europe and Northern America,total,Sanitation,2013,22.30968,243295687.5676,Basic service
+1681,sdg,Europe and Northern America,total,Sanitation,2013,0.64794,7066050.74517,Limited service
+1684,sdg,Europe and Northern America,total,Sanitation,2013,0.0039299999999999995,42852.02907,Open defecation
+1687,sdg,Europe and Northern America,total,Sanitation,2013,74.80305,815756308.2951,Safely managed service
+1690,sdg,Europe and Northern America,total,Sanitation,2013,2.2354,24377914.26616,Unimproved
+1707,sdg,Europe and Northern America,total,Sanitation,2014,22.04786,241128428.25871,Basic service
+1710,sdg,Europe and Northern America,total,Sanitation,2014,0.6397,6996189.30563,Limited service
+1713,sdg,Europe and Northern America,total,Sanitation,2014,0.0033399999999999997,36487.39024,Open defecation
+1716,sdg,Europe and Northern America,total,Sanitation,2014,75.18597,822278306.2481099,Safely managed service
+1719,sdg,Europe and Northern America,total,Sanitation,2014,2.1231400000000002,23219864.90041,Unimproved
+1736,sdg,Europe and Northern America,total,Sanitation,2015,21.78195,238908273.3387,Basic service
+1739,sdg,Europe and Northern America,total,Sanitation,2015,0.63661,6982496.9464,Limited service
+1742,sdg,Europe and Northern America,total,Sanitation,2015,0.00336,36904.31655,Open defecation
+1745,sdg,Europe and Northern America,total,Sanitation,2015,75.55994,828754587.88817,Safely managed service
+1748,sdg,Europe and Northern America,total,Sanitation,2015,2.0181299999999998,22135230.21018,Unimproved
+1765,sdg,Europe and Northern America,total,Sanitation,2017,21.30961,235105039.02117997,Basic service
+1768,sdg,Europe and Northern America,total,Sanitation,2017,0.63413,6996245.86475,Limited service
+1771,sdg,Europe and Northern America,total,Sanitation,2017,0.00337,37181.80167,Open defecation
+1774,sdg,Europe and Northern America,total,Sanitation,2017,76.2336,841071355.27935,Safely managed service
+1777,sdg,Europe and Northern America,total,Sanitation,2017,1.81928,20071821.03305,Unimproved
+1795,sdg,Latin America and the Caribbean,total,Sanitation,2000,61.95338,325747786.03514,Basic service
+1797,sdg,Latin America and the Caribbean,total,Sanitation,2000,5.27993,27761620.92762,Limited service
+1800,sdg,Latin America and the Caribbean,total,Sanitation,2000,9.765239999999999,51345146.95795,Open defecation
+1803,sdg,Latin America and the Caribbean,total,Sanitation,2000,11.53012,60624768.256869994,Safely managed service
+1805,sdg,Latin America and the Caribbean,total,Sanitation,2000,11.47133,60315659.321890004,Unimproved
+1823,sdg,Latin America and the Caribbean,total,Sanitation,2001,62.474940000000004,333085503.25202996,Basic service
+1825,sdg,Latin America and the Caribbean,total,Sanitation,2001,5.25593,28022040.101,Limited service
+1828,sdg,Latin America and the Caribbean,total,Sanitation,2001,9.257589999999999,49356909.702740006,Open defecation
+1831,sdg,Latin America and the Caribbean,total,Sanitation,2001,11.869069999999999,63279992.3117,Safely managed service
+1833,sdg,Latin America and the Caribbean,total,Sanitation,2001,11.14246,59406111.622540005,Unimproved
+1851,sdg,Latin America and the Caribbean,total,Sanitation,2002,62.953140000000005,340169567.35267,Basic service
+1853,sdg,Latin America and the Caribbean,total,Sanitation,2002,5.24519,28342579.258029997,Limited service
+1856,sdg,Latin America and the Caribbean,total,Sanitation,2002,8.770669999999999,47392628.61233,Open defecation
+1859,sdg,Latin America and the Caribbean,total,Sanitation,2002,12.20927,65973253.022630006,Safely managed service
+1861,sdg,Latin America and the Caribbean,total,Sanitation,2002,10.82173,58475606.74434,Unimproved
+1879,sdg,Latin America and the Caribbean,total,Sanitation,2003,63.06486999999999,345254215.10366,Basic service
+1881,sdg,Latin America and the Caribbean,total,Sanitation,2003,5.237369999999999,28672466.605270002,Limited service
+1884,sdg,Latin America and the Caribbean,total,Sanitation,2003,8.28495,45356689.71659,Open defecation
+1887,sdg,Latin America and the Caribbean,total,Sanitation,2003,12.91125,70683754.36342,Safely managed service
+1889,sdg,Latin America and the Caribbean,total,Sanitation,2003,10.501560000000001,57491716.512159996,Unimproved
+1907,sdg,Latin America and the Caribbean,total,Sanitation,2004,63.0844,349829126.7556,Basic service
+1909,sdg,Latin America and the Caribbean,total,Sanitation,2004,5.22501,28974817.672670003,Limited service
+1912,sdg,Latin America and the Caribbean,total,Sanitation,2004,7.81716,43349383.72581,Open defecation
+1915,sdg,Latin America and the Caribbean,total,Sanitation,2004,13.700270000000002,75973692.2552,Safely managed service
+1917,sdg,Latin America and the Caribbean,total,Sanitation,2004,10.173160000000001,56414406.59072,Unimproved
+1935,sdg,Latin America and the Caribbean,total,Sanitation,2005,63.575019999999995,357072854.20904,Basic service
+1937,sdg,Latin America and the Caribbean,total,Sanitation,2005,5.00974,28137477.54354,Limited service
+1940,sdg,Latin America and the Caribbean,total,Sanitation,2005,7.454619999999999,41869296.31461,Open defecation
+1943,sdg,Latin America and the Caribbean,total,Sanitation,2005,14.59479,81972490.523,Safely managed service
+1945,sdg,Latin America and the Caribbean,total,Sanitation,2005,9.36583,52603744.407809995,Unimproved
+1963,sdg,Latin America and the Caribbean,total,Sanitation,2006,63.557809999999996,361528584.72016,Basic service
+1965,sdg,Latin America and the Caribbean,total,Sanitation,2006,4.98752,28369930.05518,Limited service
+1968,sdg,Latin America and the Caribbean,total,Sanitation,2006,6.8858,39167732.57362,Open defecation
+1971,sdg,Latin America and the Caribbean,total,Sanitation,2006,15.40965,87652952.67374,Safely managed service
+1973,sdg,Latin America and the Caribbean,total,Sanitation,2006,9.15922,52099328.97473,Unimproved
+1991,sdg,Latin America and the Caribbean,total,Sanitation,2007,63.0957,363439754.08527005,Basic service
+1993,sdg,Latin America and the Caribbean,total,Sanitation,2007,4.95456,28538926.471640002,Limited service
+1996,sdg,Latin America and the Caribbean,total,Sanitation,2007,6.44831,37143127.718540005,Open defecation
+1999,sdg,Latin America and the Caribbean,total,Sanitation,2007,16.67598,96055901.29008001,Safely managed service
+2001,sdg,Latin America and the Caribbean,total,Sanitation,2007,8.82545,50835785.43447,Unimproved
+2019,sdg,Latin America and the Caribbean,total,Sanitation,2008,62.591719999999995,365048876.30999,Basic service
+2021,sdg,Latin America and the Caribbean,total,Sanitation,2008,4.91986,28693714.45858,Limited service
+2024,sdg,Latin America and the Caribbean,total,Sanitation,2008,6.018330000000001,35100261.538,Open defecation
+2027,sdg,Latin America and the Caribbean,total,Sanitation,2008,17.978820000000002,104856470.87718001,Safely managed service
+2029,sdg,Latin America and the Caribbean,total,Sanitation,2008,8.49127,49522985.81625,Unimproved
+2047,sdg,Latin America and the Caribbean,total,Sanitation,2009,62.04512,366322875.86762,Basic service
+2049,sdg,Latin America and the Caribbean,total,Sanitation,2009,4.88197,28823829.02993,Limited service
+2052,sdg,Latin America and the Caribbean,total,Sanitation,2009,5.59508,33034124.83257,Open defecation
+2055,sdg,Latin America and the Caribbean,total,Sanitation,2009,19.32,114067893.51188001,Safely managed service
+2057,sdg,Latin America and the Caribbean,total,Sanitation,2009,8.15783,48164934.787990004,Unimproved
+2076,sdg,Latin America and the Caribbean,total,Sanitation,2010,61.43789,367129225.82922,Basic service
+2078,sdg,Latin America and the Caribbean,total,Sanitation,2010,4.84202,28934065.31362,Limited service
+2081,sdg,Latin America and the Caribbean,total,Sanitation,2010,5.17633,30931786.1787,Open defecation
+2084,sdg,Latin America and the Caribbean,total,Sanitation,2010,20.70116,123702150.29171999,Safely managed service
+2086,sdg,Latin America and the Caribbean,total,Sanitation,2010,7.8425899999999995,46864303.887329996,Unimproved
+2108,sdg,Latin America and the Caribbean,total,Sanitation,2011,60.78674,367554155.33942,Basic service
+2110,sdg,Latin America and the Caribbean,total,Sanitation,2011,4.80007,29024186.443959996,Limited service
+2113,sdg,Latin America and the Caribbean,total,Sanitation,2011,4.76293,28799629.79475,Open defecation
+2116,sdg,Latin America and the Caribbean,total,Sanitation,2011,22.12285,133768416.48566002,Safely managed service
+2118,sdg,Latin America and the Caribbean,total,Sanitation,2011,7.5274,45515324.43561,Unimproved
+2140,sdg,Latin America and the Caribbean,total,Sanitation,2012,60.091190000000005,367586133.14508,Basic service
+2142,sdg,Latin America and the Caribbean,total,Sanitation,2012,4.75609,29093645.48812,Limited service
+2145,sdg,Latin America and the Caribbean,total,Sanitation,2012,4.35544,26642826.65515,Open defecation
+2148,sdg,Latin America and the Caribbean,total,Sanitation,2012,23.584629999999997,144270467.48459,Safely managed service
+2150,sdg,Latin America and the Caribbean,total,Sanitation,2012,7.2126600000000005,44120830.22766,Unimproved
+2172,sdg,Latin America and the Caribbean,total,Sanitation,2013,59.342369999999995,367150546.52254,Basic service
+2174,sdg,Latin America and the Caribbean,total,Sanitation,2013,4.709969999999999,29140522.635209996,Limited service
+2177,sdg,Latin America and the Caribbean,total,Sanitation,2013,3.95391,24462808.75668,Open defecation
+2180,sdg,Latin America and the Caribbean,total,Sanitation,2013,25.08607,155207233.55624,Safely managed service
+2182,sdg,Latin America and the Caribbean,total,Sanitation,2013,6.90768,42737723.5281,Unimproved
+2204,sdg,Latin America and the Caribbean,total,Sanitation,2014,58.51752,366082052.16071004,Basic service
+2206,sdg,Latin America and the Caribbean,total,Sanitation,2014,4.66219,29166348.085709997,Limited service
+2209,sdg,Latin America and the Caribbean,total,Sanitation,2014,3.55033,22210638.53419,Open defecation
+2212,sdg,Latin America and the Caribbean,total,Sanitation,2014,26.62906,166589784.04614,Safely managed service
+2214,sdg,Latin America and the Caribbean,total,Sanitation,2014,6.640910000000001,41545104.15387,Unimproved
+2236,sdg,Latin America and the Caribbean,total,Sanitation,2015,57.648630000000004,364558886.35993,Basic service
+2238,sdg,Latin America and the Caribbean,total,Sanitation,2015,4.61161,29162968.84726,Limited service
+2241,sdg,Latin America and the Caribbean,total,Sanitation,2015,3.18844,20163066.11442,Open defecation
+2244,sdg,Latin America and the Caribbean,total,Sanitation,2015,28.212590000000002,178411033.78026,Safely managed service
+2246,sdg,Latin America and the Caribbean,total,Sanitation,2015,6.3387199999999995,40084874.89813,Unimproved
+2268,sdg,Latin America and the Caribbean,total,Sanitation,2017,55.858869999999996,360621085.36917,Basic service
+2270,sdg,Latin America and the Caribbean,total,Sanitation,2017,4.52564,29217218.95712,Limited service
+2273,sdg,Latin America and the Caribbean,total,Sanitation,2017,2.42171,15634366.402020002,Open defecation
+2276,sdg,Latin America and the Caribbean,total,Sanitation,2017,31.31875,202191739.2216,Safely managed service
+2278,sdg,Latin America and the Caribbean,total,Sanitation,2017,5.87504,37928843.05008,Unimproved
+2297,sdg,Northern Africa and Western Asia,total,Sanitation,2000,51.391259999999996,183763691.28484,Basic service
+2299,sdg,Northern Africa and Western Asia,total,Sanitation,2000,5.069030000000001,18125720.7901,Limited service
+2302,sdg,Northern Africa and Western Asia,total,Sanitation,2000,9.05225,32368835.375690002,Open defecation
+2305,sdg,Northern Africa and Western Asia,total,Sanitation,2000,26.24922,93861369.0504,Safely managed service
+2307,sdg,Northern Africa and Western Asia,total,Sanitation,2000,8.23824,29458125.49862,Unimproved
+2323,sdg,Northern Africa and Western Asia,total,Sanitation,2001,51.21132,186577775.52168998,Basic service
+2325,sdg,Northern Africa and Western Asia,total,Sanitation,2001,5.0785599999999995,18502667.89421,Limited service
+2328,sdg,Northern Africa and Western Asia,total,Sanitation,2001,8.8634,32291954.61502,Open defecation
+2331,sdg,Northern Africa and Western Asia,total,Sanitation,2001,26.66913,97163433.92618,Safely managed service
+2333,sdg,Northern Africa and Western Asia,total,Sanitation,2001,8.177589999999999,29793364.543270003,Unimproved
+2349,sdg,Northern Africa and Western Asia,total,Sanitation,2002,51.32294,190528977.60458001,Basic service
+2351,sdg,Northern Africa and Western Asia,total,Sanitation,2002,5.0231,18647542.43885,Limited service
+2354,sdg,Northern Africa and Western Asia,total,Sanitation,2002,8.670110000000001,32186507.383470003,Open defecation
+2357,sdg,Northern Africa and Western Asia,total,Sanitation,2002,27.029559999999996,100343329.27514,Safely managed service
+2359,sdg,Northern Africa and Western Asia,total,Sanitation,2002,7.954280000000001,29529124.798329998,Unimproved
+2375,sdg,Northern Africa and Western Asia,total,Sanitation,2003,51.20288,193732914.5877,Basic service
+2377,sdg,Northern Africa and Western Asia,total,Sanitation,2003,4.96945,18802592.89145,Limited service
+2380,sdg,Northern Africa and Western Asia,total,Sanitation,2003,8.45014,31972219.639840003,Open defecation
+2383,sdg,Northern Africa and Western Asia,total,Sanitation,2003,27.70038,104808065.53974,Safely managed service
+2385,sdg,Northern Africa and Western Asia,total,Sanitation,2003,7.67715,29047520.84127,Unimproved
+2401,sdg,Northern Africa and Western Asia,total,Sanitation,2004,51.068529999999996,197016818.02108002,Basic service
+2403,sdg,Northern Africa and Western Asia,total,Sanitation,2004,4.90677,18929770.30962,Limited service
+2406,sdg,Northern Africa and Western Asia,total,Sanitation,2004,8.22718,31739569.62013,Open defecation
+2409,sdg,Northern Africa and Western Asia,total,Sanitation,2004,28.40212,109572301.79687,Safely managed service
+2411,sdg,Northern Africa and Western Asia,total,Sanitation,2004,7.3954,28530664.252690002,Unimproved
+2427,sdg,Northern Africa and Western Asia,total,Sanitation,2005,51.018209999999996,200788777.59473002,Basic service
+2429,sdg,Northern Africa and Western Asia,total,Sanitation,2005,4.8022800000000005,18899990.416220002,Limited service
+2432,sdg,Northern Africa and Western Asia,total,Sanitation,2005,7.814139999999999,30753568.57699,Open defecation
+2435,sdg,Northern Africa and Western Asia,total,Sanitation,2005,29.184620000000002,114859832.42498,Safely managed service
+2437,sdg,Northern Africa and Western Asia,total,Sanitation,2005,7.18075,28260775.88709,Unimproved
+2453,sdg,Northern Africa and Western Asia,total,Sanitation,2006,50.97227,204760073.78942,Basic service
+2455,sdg,Northern Africa and Western Asia,total,Sanitation,2006,4.69444,18857965.38916,Limited service
+2458,sdg,Northern Africa and Western Asia,total,Sanitation,2006,7.39261,29696747.960009996,Open defecation
+2461,sdg,Northern Africa and Western Asia,total,Sanitation,2006,29.979020000000002,120428359.41193001,Safely managed service
+2463,sdg,Northern Africa and Western Asia,total,Sanitation,2006,6.96166,27965611.54948,Unimproved
+2479,sdg,Northern Africa and Western Asia,total,Sanitation,2007,50.91625,208859817.81137,Basic service
+2481,sdg,Northern Africa and Western Asia,total,Sanitation,2007,4.57779,18778221.28879,Limited service
+2484,sdg,Northern Africa and Western Asia,total,Sanitation,2007,6.97014,28591682.05938,Open defecation
+2487,sdg,Northern Africa and Western Asia,total,Sanitation,2007,30.79676,126329146.65545,Safely managed service
+2489,sdg,Northern Africa and Western Asia,total,Sanitation,2007,6.73906,27643790.185409997,Unimproved
+2505,sdg,Northern Africa and Western Asia,total,Sanitation,2008,50.85521,213074364.32584,Basic service
+2507,sdg,Northern Africa and Western Asia,total,Sanitation,2008,4.45951,18684559.28738,Limited service
+2510,sdg,Northern Africa and Western Asia,total,Sanitation,2008,6.54473,27421268.66787,Open defecation
+2513,sdg,Northern Africa and Western Asia,total,Sanitation,2008,31.61611,132465941.56037,Safely managed service
+2515,sdg,Northern Africa and Western Asia,total,Sanitation,2008,6.52444,27336273.15854,Unimproved
+2534,sdg,Northern Africa and Western Asia,total,Sanitation,2009,50.78969,217357694.75278,Basic service
+2536,sdg,Northern Africa and Western Asia,total,Sanitation,2009,4.3403599999999996,18574857.73924,Limited service
+2539,sdg,Northern Africa and Western Asia,total,Sanitation,2009,6.1314400000000004,26239899.32315,Open defecation
+2542,sdg,Northern Africa and Western Asia,total,Sanitation,2009,32.42634,138770598.52739,Safely managed service
+2544,sdg,Northern Africa and Western Asia,total,Sanitation,2009,6.31217,27013323.45744,Unimproved
+2566,sdg,Northern Africa and Western Asia,total,Sanitation,2010,50.7491,221798047.7286,Basic service
+2568,sdg,Northern Africa and Western Asia,total,Sanitation,2010,4.22014,18444059.50192,Limited service
+2571,sdg,Northern Africa and Western Asia,total,Sanitation,2010,5.72659,25027975.32216,Open defecation
+2574,sdg,Northern Africa and Western Asia,total,Sanitation,2010,33.19482,145077350.36271998,Safely managed service
+2576,sdg,Northern Africa and Western Asia,total,Sanitation,2010,6.10934,26700781.58461,Unimproved
+2598,sdg,Northern Africa and Western Asia,total,Sanitation,2011,50.75788,226500288.77339,Basic service
+2600,sdg,Northern Africa and Western Asia,total,Sanitation,2011,4.09774,18285632.91635,Limited service
+2603,sdg,Northern Africa and Western Asia,total,Sanitation,2011,5.30521,23673774.75785,Open defecation
+2606,sdg,Northern Africa and Western Asia,total,Sanitation,2011,33.89695,151260658.61246002,Safely managed service
+2608,sdg,Northern Africa and Western Asia,total,Sanitation,2011,5.94222,26516371.73994,Unimproved
+2630,sdg,Northern Africa and Western Asia,total,Sanitation,2012,50.79444,231373918.17332998,Basic service
+2632,sdg,Northern Africa and Western Asia,total,Sanitation,2012,3.9714400000000003,18090318.00266,Limited service
+2635,sdg,Northern Africa and Western Asia,total,Sanitation,2012,4.91879,22405607.8764,Open defecation
+2638,sdg,Northern Africa and Western Asia,total,Sanitation,2012,34.56212,157434017.83319,Safely managed service
+2640,sdg,Northern Africa and Western Asia,total,Sanitation,2012,5.75321,26206484.41442,Unimproved
+2662,sdg,Northern Africa and Western Asia,total,Sanitation,2013,50.84507,236334177.22458,Basic service
+2664,sdg,Northern Africa and Western Asia,total,Sanitation,2013,3.8404199999999995,17850730.21911,Limited service
+2667,sdg,Northern Africa and Western Asia,total,Sanitation,2013,4.54504,21125911.26255,Open defecation
+2670,sdg,Northern Africa and Western Asia,total,Sanitation,2013,35.20662,163644759.56852,Safely managed service
+2672,sdg,Northern Africa and Western Asia,total,Sanitation,2013,5.56285,25856838.725229997,Unimproved
+2694,sdg,Northern Africa and Western Asia,total,Sanitation,2014,50.85388,241087468.69127002,Basic service
+2696,sdg,Northern Africa and Western Asia,total,Sanitation,2014,3.76419,17845202.49845,Limited service
+2699,sdg,Northern Africa and Western Asia,total,Sanitation,2014,4.25274,20161356.63061,Open defecation
+2702,sdg,Northern Africa and Western Asia,total,Sanitation,2014,35.82972,169861100.5169,Safely managed service
+2704,sdg,Northern Africa and Western Asia,total,Sanitation,2014,5.29946,25123635.69277,Unimproved
+2726,sdg,Northern Africa and Western Asia,total,Sanitation,2015,50.73981,245205003.54834,Basic service
+2728,sdg,Northern Africa and Western Asia,total,Sanitation,2015,3.6929800000000004,17846662.62178,Limited service
+2731,sdg,Northern Africa and Western Asia,total,Sanitation,2015,3.96769,19174227.01215,Open defecation
+2734,sdg,Northern Africa and Western Asia,total,Sanitation,2015,36.4763,176275200.96628,Safely managed service
+2736,sdg,Northern Africa and Western Asia,total,Sanitation,2015,5.12322,24758470.85145,Unimproved
+2758,sdg,Northern Africa and Western Asia,total,Sanitation,2017,50.216159999999995,251715056.94955,Basic service
+2760,sdg,Northern Africa and Western Asia,total,Sanitation,2017,3.52984,17693783.75752,Limited service
+2763,sdg,Northern Africa and Western Asia,total,Sanitation,2017,3.8563300000000003,19330367.63583,Open defecation
+2766,sdg,Northern Africa and Western Asia,total,Sanitation,2017,37.54103,188179329.05056,Safely managed service
+2768,sdg,Northern Africa and Western Asia,total,Sanitation,2017,4.8566400000000005,24344560.90653,Unimproved
+2783,sdg,Oceania,total,Sanitation,2000,37.517759999999996,3115694.27137,At least basic
+2786,sdg,Oceania,total,Sanitation,2000,4.18574,347608.79106,Limited service
+2789,sdg,Oceania,total,Sanitation,2000,12.85034,1067167.412,Open defecation
+2792,sdg,Oceania,total,Sanitation,2000,45.44616,3774115.52556,Unimproved
+2807,sdg,Oceania,total,Sanitation,2001,37.45459,3176292.2986,At least basic
+2810,sdg,Oceania,total,Sanitation,2001,4.16943,353583.71253,Limited service
+2813,sdg,Oceania,total,Sanitation,2001,12.846739999999999,1089453.06635,Open defecation
+2816,sdg,Oceania,total,Sanitation,2001,45.52924,3861053.92253,Unimproved
+2831,sdg,Oceania,total,Sanitation,2002,37.28334,3227273.9588099997,At least basic
+2834,sdg,Oceania,total,Sanitation,2002,4.1702,360975.80715,Limited service
+2837,sdg,Oceania,total,Sanitation,2002,12.87557,1114518.6571,Open defecation
+2840,sdg,Oceania,total,Sanitation,2002,45.67089,3953306.5769300004,Unimproved
+2855,sdg,Oceania,total,Sanitation,2003,37.209990000000005,3286617.01863,At least basic
+2858,sdg,Oceania,total,Sanitation,2003,4.17697,368935.64501,Limited service
+2861,sdg,Oceania,total,Sanitation,2003,12.89429,1138903.91206,Open defecation
+2864,sdg,Oceania,total,Sanitation,2003,45.718740000000004,4038162.42429,Unimproved
+2879,sdg,Oceania,total,Sanitation,2004,37.1323,3346132.1757900002,At least basic
+2882,sdg,Oceania,total,Sanitation,2004,4.1824900000000005,376899.62522,Limited service
+2885,sdg,Oceania,total,Sanitation,2004,12.91088,1163448.11264,Open defecation
+2888,sdg,Oceania,total,Sanitation,2004,45.77434,4124899.08635,Unimproved
+2903,sdg,Oceania,total,Sanitation,2005,36.628890000000006,3367432.6636,At least basic
+2906,sdg,Oceania,total,Sanitation,2005,4.1553,382012.87868,Limited service
+2909,sdg,Oceania,total,Sanitation,2005,12.99146,1194354.47068,Open defecation
+2912,sdg,Oceania,total,Sanitation,2005,46.224340000000005,4249578.98703,Unimproved
+2927,sdg,Oceania,total,Sanitation,2006,36.13006,3388629.50346,At least basic
+2930,sdg,Oceania,total,Sanitation,2006,4.1265,387023.79584000004,Limited service
+2933,sdg,Oceania,total,Sanitation,2006,13.07002,1225834.4751600001,Open defecation
+2936,sdg,Oceania,total,Sanitation,2006,46.67341,4377488.22554,Unimproved
+2951,sdg,Oceania,total,Sanitation,2007,35.635059999999996,3409449.71053,At least basic
+2954,sdg,Oceania,total,Sanitation,2007,4.0963199999999995,391922.48035,Limited service
+2957,sdg,Oceania,total,Sanitation,2007,13.11731,1255023.0309,Open defecation
+2960,sdg,Oceania,total,Sanitation,2007,47.151309999999995,4511287.77823,Unimproved
+2975,sdg,Oceania,total,Sanitation,2008,35.14062,3429355.23445,At least basic
+2978,sdg,Oceania,total,Sanitation,2008,4.06905,397096.45549,Limited service
+2981,sdg,Oceania,total,Sanitation,2008,13.19015,1287219.72616,Open defecation
+2984,sdg,Oceania,total,Sanitation,2008,47.60018,4645276.58389,Unimproved
+2999,sdg,Oceania,total,Sanitation,2009,34.64867,3448147.9548400003,At least basic
+3002,sdg,Oceania,total,Sanitation,2009,4.04132,402181.48513000004,Limited service
+3005,sdg,Oceania,total,Sanitation,2009,13.26133,1319734.0187799998,Open defecation
+3008,sdg,Oceania,total,Sanitation,2009,48.04868,4781682.51125,Unimproved
+3023,sdg,Oceania,total,Sanitation,2010,34.15583,3465259.63736,At least basic
+3026,sdg,Oceania,total,Sanitation,2010,4.01524,407363.56468,Limited service
+3029,sdg,Oceania,total,Sanitation,2010,13.33165,1352554.36926,Open defecation
+3032,sdg,Oceania,total,Sanitation,2010,48.497279999999996,4920262.42868,Unimproved
+3047,sdg,Oceania,total,Sanitation,2011,33.66098,3480448.9535800004,At least basic
+3050,sdg,Oceania,total,Sanitation,2011,3.9914400000000003,412703.61973000003,Limited service
+3053,sdg,Oceania,total,Sanitation,2011,13.40144,1385670.40977,Open defecation
+3056,sdg,Oceania,total,Sanitation,2011,48.94614,5060890.016919999,Unimproved
+3071,sdg,Oceania,total,Sanitation,2012,33.16619,3494009.7806300004,At least basic
+3074,sdg,Oceania,total,Sanitation,2012,3.97002,418235.90024,Limited service
+3077,sdg,Oceania,total,Sanitation,2012,13.470310000000001,1419077.17749,Open defecation
+3080,sdg,Oceania,total,Sanitation,2012,49.39348,5203531.14163,Unimproved
+3095,sdg,Oceania,total,Sanitation,2013,32.673770000000005,3506268.96941,At least basic
+3098,sdg,Oceania,total,Sanitation,2013,3.9507,423955.40825,Limited service
+3101,sdg,Oceania,total,Sanitation,2013,13.534320000000001,1452387.25645,Open defecation
+3104,sdg,Oceania,total,Sanitation,2013,49.8412,5348530.36587,Unimproved
+3119,sdg,Oceania,total,Sanitation,2014,32.18595,3517609.05625,At least basic
+3122,sdg,Oceania,total,Sanitation,2014,3.9327,429805.53335,Limited service
+3125,sdg,Oceania,total,Sanitation,2014,13.59736,1486058.25541,Open defecation
+3128,sdg,Oceania,total,Sanitation,2014,50.28399,5495548.15499,Unimproved
+3143,sdg,Oceania,total,Sanitation,2015,31.703459999999996,3528243.4830199997,At least basic
+3146,sdg,Oceania,total,Sanitation,2015,3.9153,435729.81158000004,Limited service
+3149,sdg,Oceania,total,Sanitation,2015,13.65205,1519322.21361,Open defecation
+3152,sdg,Oceania,total,Sanitation,2015,50.72919,5645596.491780001,Unimproved
+3167,sdg,Oceania,total,Sanitation,2017,30.302809999999997,3495248.9258800005,At least basic
+3170,sdg,Oceania,total,Sanitation,2017,3.93381,453741.90903000004,Limited service
+3173,sdg,Oceania,total,Sanitation,2017,13.938670000000002,1607743.39294,Open defecation
+3176,sdg,Oceania,total,Sanitation,2017,51.824709999999996,5977672.77216,Unimproved
+3191,sdg,Sub-Saharan Africa,total,Sanitation,2000,8.18178,52773078.39431,Basic service
+3194,sdg,Sub-Saharan Africa,total,Sanitation,2000,15.0989,97388976.86773,Limited service
+3197,sdg,Sub-Saharan Africa,total,Sanitation,2000,32.48551,209533874.91406,Open defecation
+3200,sdg,Sub-Saharan Africa,total,Sanitation,2000,14.849079999999999,95777653.67233,Safely managed service
+3203,sdg,Sub-Saharan Africa,total,Sanitation,2000,29.38472,189533549.65157,Unimproved
+3221,sdg,Sub-Saharan Africa,total,Sanitation,2001,8.30128,54980352.12591,Basic service
+3224,sdg,Sub-Saharan Africa,total,Sanitation,2001,15.30034,101336001.61256999,Limited service
+3227,sdg,Sub-Saharan Africa,total,Sanitation,2001,31.75719,210331697.23804,Open defecation
+3230,sdg,Sub-Saharan Africa,total,Sanitation,2001,15.131470000000002,100217522.63318,Safely managed service
+3233,sdg,Sub-Saharan Africa,total,Sanitation,2001,29.509729999999998,195446517.39029,Unimproved
+3251,sdg,Sub-Saharan Africa,total,Sanitation,2002,8.401539999999999,57138076.82092,Basic service
+3254,sdg,Sub-Saharan Africa,total,Sanitation,2002,15.45734,105123914.72079,Limited service
+3257,sdg,Sub-Saharan Africa,total,Sanitation,2002,31.013140000000003,210917418.89508998,Open defecation
+3260,sdg,Sub-Saharan Africa,total,Sanitation,2002,15.452539999999999,105091217.43705,Safely managed service
+3263,sdg,Sub-Saharan Africa,total,Sanitation,2002,29.675440000000002,201819804.12546998,Unimproved
+3281,sdg,Sub-Saharan Africa,total,Sanitation,2003,8.607280000000001,60113654.941290006,Basic service
+3284,sdg,Sub-Saharan Africa,total,Sanitation,2003,15.61863,109081264.64561999,Limited service
+3287,sdg,Sub-Saharan Africa,total,Sanitation,2003,30.26445,211368362.92958,Open defecation
+3290,sdg,Sub-Saharan Africa,total,Sanitation,2003,15.66514,109406057.10438001,Safely managed service
+3293,sdg,Sub-Saharan Africa,total,Sanitation,2003,29.8445,208435388.37983,Unimproved
+3311,sdg,Sub-Saharan Africa,total,Sanitation,2004,8.80975,63195082.17044,Basic service
+3314,sdg,Sub-Saharan Africa,total,Sanitation,2004,15.79928,113333131.39716999,Limited service
+3317,sdg,Sub-Saharan Africa,total,Sanitation,2004,29.511409999999998,211694439.15391,Open defecation
+3320,sdg,Sub-Saharan Africa,total,Sanitation,2004,15.86692,113818276.57423998,Safely managed service
+3323,sdg,Sub-Saharan Africa,total,Sanitation,2004,30.01264,215289896.70424,Unimproved
+3341,sdg,Sub-Saharan Africa,total,Sanitation,2005,9.020589999999999,66475012.484019995,Basic service
+3344,sdg,Sub-Saharan Africa,total,Sanitation,2005,15.97216,117702915.10607,Limited service
+3347,sdg,Sub-Saharan Africa,total,Sanitation,2005,28.75165,211878233.96213,Open defecation
+3350,sdg,Sub-Saharan Africa,total,Sanitation,2005,16.0783,118485058.50681001,Safely managed service
+3353,sdg,Sub-Saharan Africa,total,Sanitation,2005,30.17731,222384248.24022,Unimproved
+3371,sdg,Sub-Saharan Africa,total,Sanitation,2006,9.23245,69909267.53713,Basic service
+3374,sdg,Sub-Saharan Africa,total,Sanitation,2006,16.131320000000002,122148395.95055,Limited service
+3377,sdg,Sub-Saharan Africa,total,Sanitation,2006,27.99292,211965990.5499,Open defecation
+3380,sdg,Sub-Saharan Africa,total,Sanitation,2006,16.30415,123457132.78118001,Safely managed service
+3383,sdg,Sub-Saharan Africa,total,Sanitation,2006,30.339170000000003,229732091.58124,Unimproved
+3401,sdg,Sub-Saharan Africa,total,Sanitation,2007,9.43745,73441248.6634,Basic service
+3404,sdg,Sub-Saharan Africa,total,Sanitation,2007,16.28289,126711763.88415,Limited service
+3407,sdg,Sub-Saharan Africa,total,Sanitation,2007,27.262490000000003,212153869.72288,Open defecation
+3410,sdg,Sub-Saharan Africa,total,Sanitation,2007,16.52257,128576901.99506001,Safely managed service
+3413,sdg,Sub-Saharan Africa,total,Sanitation,2007,30.4946,237305788.73374,Unimproved
+3431,sdg,Sub-Saharan Africa,total,Sanitation,2008,9.66997,77345090.93179001,Basic service
+3434,sdg,Sub-Saharan Africa,total,Sanitation,2008,16.448729999999998,131564910.76353998,Limited service
+3437,sdg,Sub-Saharan Africa,total,Sanitation,2008,26.477829999999997,211782562.1076,Open defecation
+3440,sdg,Sub-Saharan Africa,total,Sanitation,2008,16.761770000000002,134068824.97835,Safely managed service
+3443,sdg,Sub-Saharan Africa,total,Sanitation,2008,30.641709999999996,245087282.71871,Unimproved
+3461,sdg,Sub-Saharan Africa,total,Sanitation,2009,9.92335,81586872.11775,Basic service
+3464,sdg,Sub-Saharan Africa,total,Sanitation,2009,16.62424,136679621.2994,Limited service
+3467,sdg,Sub-Saharan Africa,total,Sanitation,2009,25.70209,211315023.55398998,Open defecation
+3470,sdg,Sub-Saharan Africa,total,Sanitation,2009,16.96998,139522153.14075,Safely managed service
+3473,sdg,Sub-Saharan Africa,total,Sanitation,2009,30.78033,253066754.88811,Unimproved
+3491,sdg,Sub-Saharan Africa,total,Sanitation,2010,10.18027,86037125.50833,Basic service
+3494,sdg,Sub-Saharan Africa,total,Sanitation,2010,16.80163,141996614.51428,Limited service
+3497,sdg,Sub-Saharan Africa,total,Sanitation,2010,24.92901,210684058.7417,Open defecation
+3500,sdg,Sub-Saharan Africa,total,Sanitation,2010,17.18347,145223684.90341002,Safely managed service
+3503,sdg,Sub-Saharan Africa,total,Sanitation,2010,30.90563,261194673.33227998,Unimproved
+3530,sdg,Sub-Saharan Africa,total,Sanitation,2011,10.41413,90472576.49302,Basic service
+3533,sdg,Sub-Saharan Africa,total,Sanitation,2011,16.93069,147085037.16946,Limited service
+3536,sdg,Sub-Saharan Africa,total,Sanitation,2011,24.69163,214508038.18271002,Open defecation
+3539,sdg,Sub-Saharan Africa,total,Sanitation,2011,17.270129999999998,150033923.11778,Safely managed service
+3542,sdg,Sub-Saharan Africa,total,Sanitation,2011,30.693409999999997,266648364.1379,Unimproved
+3569,sdg,Sub-Saharan Africa,total,Sanitation,2012,10.702110000000001,95569962.70942,Basic service
+3572,sdg,Sub-Saharan Africa,total,Sanitation,2012,17.107789999999998,152772827.57846,Limited service
+3575,sdg,Sub-Saharan Africa,total,Sanitation,2012,23.93816,213768095.32356998,Open defecation
+3578,sdg,Sub-Saharan Africa,total,Sanitation,2012,17.46509,155963534.25242,Safely managed service
+3581,sdg,Sub-Saharan Africa,total,Sanitation,2012,30.78685,274927052.13614,Unimproved
+3608,sdg,Sub-Saharan Africa,total,Sanitation,2013,10.9971,100938217.78116,Basic service
+3611,sdg,Sub-Saharan Africa,total,Sanitation,2013,17.28305,158634572.25994,Limited service
+3614,sdg,Sub-Saharan Africa,total,Sanitation,2013,23.1908,212859609.4826,Open defecation
+3617,sdg,Sub-Saharan Africa,total,Sanitation,2013,17.65571,162055102.81261998,Safely managed service
+3620,sdg,Sub-Saharan Africa,total,Sanitation,2013,30.87333,283374616.6944,Unimproved
+3647,sdg,Sub-Saharan Africa,total,Sanitation,2014,11.298060000000001,106572885.78608,Basic service
+3650,sdg,Sub-Saharan Africa,total,Sanitation,2014,17.45986,164696231.22658998,Limited service
+3653,sdg,Sub-Saharan Africa,total,Sanitation,2014,22.44661,211735461.07477,Open defecation
+3656,sdg,Sub-Saharan Africa,total,Sanitation,2014,17.8451,168330164.00074,Safely managed service
+3659,sdg,Sub-Saharan Africa,total,Sanitation,2014,30.95037,291950153.91276,Unimproved
+3686,sdg,Sub-Saharan Africa,total,Sanitation,2015,11.60346,112464676.10761002,Basic service
+3689,sdg,Sub-Saharan Africa,total,Sanitation,2015,17.64066,170979362.61786002,Limited service
+3692,sdg,Sub-Saharan Africa,total,Sanitation,2015,21.70552,210377363.10068998,Open defecation
+3695,sdg,Sub-Saharan Africa,total,Sanitation,2015,18.03221,174774375.27609,Safely managed service
+3698,sdg,Sub-Saharan Africa,total,Sanitation,2015,31.018140000000002,300638468.69775,Unimproved
+3725,sdg,Sub-Saharan Africa,total,Sanitation,2017,12.256039999999999,125338187.33043998,Basic service
+3728,sdg,Sub-Saharan Africa,total,Sanitation,2017,18.07827,184880082.58795,Limited service
+3731,sdg,Sub-Saharan Africa,total,Sanitation,2017,19.97072,204233463.34032,Open defecation
+3734,sdg,Sub-Saharan Africa,total,Sanitation,2017,18.445320000000002,188633706.01645,Safely managed service
+3737,sdg,Sub-Saharan Africa,total,Sanitation,2017,31.24965,319579017.72362995,Unimproved
